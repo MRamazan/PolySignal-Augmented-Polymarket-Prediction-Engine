@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="submission_logo.png" alt="PolySignal Logo" width="300"/>
+</p>
+
 # PolySignal - AI-Augmented Polymarket Prediction Engine
 
 > **Orderflow 001 Submission** | AI-Augmented Systems Track
